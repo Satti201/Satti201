@@ -1,8 +1,8 @@
 - <h1>ABOUT ME:<h1>
-- 👋 Hi, I’m @Satti201 and  I am a Fresh Graduate.
-- 👀 I’m a Full Stack App Developer .
-- 🌱 I’m currently learning and updating my Knowledge about Flutter
-- 💞️ I’m looking to collaborate on App Developement using Flutter.
+- 👋 Greetings! My username is @Satti201 and I am currently an intern in Flutter development at ALestra Solutions Pvt(ltd).
+- 👀 My expertise lies in creating mobile apps using Flutter.
+- 🌱 Presently, I am dedicatedly learning and upgrading my skills in Flutter while simultaneously completing various projects.
+- 💞️  am eager to collaborate on Flutter-based app development.
 - <h2>Technologies and Skills</h2>  
 -	![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
