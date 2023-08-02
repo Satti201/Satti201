@@ -1,5 +1,5 @@
 - <h1>ABOUT ME:<h1>
-- 👋 Greetings! My username is @Satti201 and I am currently an asspciate in Flutter development at ALestra Solutions Pvt(ltd).
+- 👋 Greetings! My username is @Satti201 and I am currently an associate in Flutter development at ALestra Solutions Pvt(ltd).
 - 👀 My expertise lies in creating mobile apps using Flutter.
 - 🌱 Presently, I am dedicatedly learning and upgrading my skills in Flutter while simultaneously completing various projects.
 - 💞️  am eager to collaborate on Flutter-based app development.
