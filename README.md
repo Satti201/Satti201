@@ -1,8 +1,19 @@
 - <h1>ABOUT ME:<h1>
-- 👋 Greetings! My username is @Satti201 and I am currently an Associate Flutter Developer at ALestra Solutions Pvt(ltd).
-- 👀 My expertise lies in creating mobile apps using Flutter.
+- 👋  Greetings! I'm @Satti201, a junior Flutter developer with 1.5 years of experience in building mobile and web apps using Flutter. I am dedicated to creating user-friendly and high-performance applications.
+- 👀 **Skills:**
+* **Flutter Fundamentals:** Proficient in core concepts like state management, navigation, and UI/UX design principles.
+* **Widget Mastery:** Skilled in crafting custom widgets for reusability and maintainability.
+* **Package Powerhouse:** Adept at leveraging Flutter packages for various functionalities.
+* **Third-Party Integration:** Experienced in integrating third-party libraries to enhance app functionality.
+* **Localization Ready:** Can build apps that support different languages and locales.
+* **Firebase Firepower:** Utilize Firebase for robust backend services.
+* **Web Flutter:** Experience in building admin panels using Flutter Web for desktop or web-based functionalities.
+* **Theming Expertise:** Skilled in implementing light and dark themes for a user-friendly experience.
+* **Continuous Learner:** Possess a strong desire to expand my Flutter knowledge base and explore new technologies.
+
 - 🌱 Presently, I am dedicatedly learning and upgrading my skills in Flutter while simultaneously completing various projects.
-- 💞️  am eager to collaborate on Flutter-based app development.
+- 💞️ Open to collaborating on Flutter projects or freelance opportunities (if applicable).
+
 - <h2>Technologies and Skills</h2>  
 -	![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
