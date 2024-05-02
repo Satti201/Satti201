@@ -11,12 +11,13 @@
 * **Localization Ready:** Can build apps that support different languages and locales, reaching a wider audience.
 * **Firebase Firepower:** Utilize Firebase for robust backend services, making your apps more scalable and secure.
 * **Web Flutter:** Experience in building admin panels using Flutter Web for desktop or web-based functionalities, extending your Flutter skills beyond mobile.
-* **Theming Pro:** Skilled in implementing light and dark themes for a user-friendly experience, providing a comfortable and customizable experience for users.
+* **Theming Pro:** Skilled in implementing light and dark themes for a user-friendly experience, providing a comfortable and customizable user experience.
 * **Continuous Learner:** Possess a strong desire to expand my Flutter knowledge base and explore new technologies, always striving to improve and learn more.
 
 **Technologies & Skills**
 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)[![Firebase](https://img.shields.io/badge/Firebase-%29C62821.svg?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+
 
 **I'm also familiar with:**
 
