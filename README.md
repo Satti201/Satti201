@@ -15,7 +15,12 @@
 * **Localization Ready:** Can build apps that support different languages and locales, reaching a wider audience.
 * **Firebase Firepower:** Utilize Firebase for robust backend services, making your apps more scalable and secure.
 * **Web Flutter:** Experience in building admin panels using Flutter Web for desktop or web-based functionalities, extending your Flutter skills beyond mobile.
+* **Database & Backend Handling:** Experience working with Microsoft SQL Server and C# APIs, managing both front-end and back-end operations efficiently.
+* **Full-Stack Capabilities:** While specializing in Flutter, I also have experience working with back-end APIs, databases, and cloud-based solutions, making me capable of handling full-stack development when required.
 * **Theming Pro:** Skilled in implementing light and dark themes for a user-friendly experience, providing a comfortable and customizable user experience.
+* **App Monetization & Store Deployments:** Experience with app store guidelines, publishing apps on the Google Play Store, and implementing monetization strategies.
+* **Agile Development & Project Management:** Used to working in startup environments, handling multiple roles, including development, documentation, and deployment.
+* **Freelancer & Startup Co-Founder:** Actively working on Fiverr and Upwork while co-founding a startup that focuses on Flutter, WordPress, Shopify, outsourcing, and SaaS product development.
 * **Continuous Learner:** Possess a strong desire to expand my Flutter knowledge base and explore new technologies, always striving to improve and learn more.
 
 **Technologies & Skills**
