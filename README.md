@@ -8,6 +8,10 @@
 * **Widget Master:** Skilled in crafting custom widgets for reusability and maintainability, keeping code clean and organized.
 * **Package Powerhouse:** Adept at leveraging Flutter packages for various functionalities, maximizing development efficiency.
 * **Third-Party Integration:** Experienced in integrating third-party libraries to enhance app functionality, adding powerful features to your projects.
+* **API Integration Pro:** Capable of implementing APIs from Postman or any other source, ensuring seamless communication between frontend and backend.
+* **Payment Integration:** Experienced in implementing Stripe and Google Play Store payments, enabling secure transactions.
+* **Local Authentication:** Skilled in integrating Face ID and fingerprint authentication for enhanced security.
+* **Shared Preferences User:** Proficient in using Shared Preferences for local data storage, improving app performance and user experience.
 * **Localization Ready:** Can build apps that support different languages and locales, reaching a wider audience.
 * **Firebase Firepower:** Utilize Firebase for robust backend services, making your apps more scalable and secure.
 * **Web Flutter:** Experience in building admin panels using Flutter Web for desktop or web-based functionalities, extending your Flutter skills beyond mobile.
