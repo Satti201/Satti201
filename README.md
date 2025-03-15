@@ -1,6 +1,6 @@
 ## About Me
 
- Hi there! I'm [@Satti201](https://github.com/Satti201), a junior Flutter developer with 1.5 years of experience building mobile and web apps using this amazing framework. I'm passionate about creating user-friendly, high-performance applications that make a difference.
+ Hi there! I'm [@Satti201](https://github.com/Satti201), a junior Flutter developer with 2.5 years of experience building mobile and web apps using this amazing framework. I'm passionate about creating user-friendly, high-performance applications that make a difference.
 
 **Skills:**
 
