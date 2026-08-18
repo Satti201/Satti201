@@ -15,4 +15,4 @@ Full Stack Flutter Developer with 3+ years of experience building and shipping p
 - Built Orapacle, an AI-powered app generating personalized content via Generative AI prompts
 - Self-shipped **Otaku Shelf**, an anime/manga tracker on Google Play — GetX/Riverpod, Freezed, Hive offline caching, RevenueCat
 
-📫 **Open to remote & on-site Flutter roles.** Reach me at mansoorsatti201@gmail.com or [LinkedIn](https://linkedin.com/in/muhammad-mansoor-satti-316769233).
+📫 **Open to remote & on-site Flutter roles.** Reach me at mansoorsatti2498@gmail.com or [LinkedIn](https://linkedin.com/in/muhammad-mansoor-satti-316769233).
