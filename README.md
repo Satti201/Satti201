@@ -61,6 +61,8 @@ Public Flutter engineering project demonstrating Clean Architecture, Riverpod, D
 
 [View RepoScout →](https://github.com/Satti201/repo-scout)
 
+---
+
 ## 🚴 Ride With Pals
 
 Two-sided sports platform connecting cycling clubs with individual athletes.
