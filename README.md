@@ -48,6 +48,19 @@ Google Vertex AI · Generative AI APIs
 
 # Featured Work
 
+### RepoScout
+
+Public Flutter engineering project demonstrating Clean Architecture, Riverpod, Dio, Hive persistence, offline fallback, testing, and CI.
+
+**Highlights**
+- Remote-first architecture with Hive offline fallback
+- GitHub REST API with paginated user and repository browsing
+- Persistent favorites and cached-data UX
+- 23 automated unit and widget tests
+- GitHub Actions CI
+
+[View RepoScout →](https://github.com/Satti201/repo-scout)
+
 ## 🚴 Ride With Pals
 
 Two-sided sports platform connecting cycling clubs with individual athletes.
