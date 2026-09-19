@@ -4,57 +4,63 @@
 
 I build and ship production Flutter applications for Android, iOS, and Web.
 
-With 3+ years of professional experience, I've worked across sports platforms, EdTech, AI-powered products, marketplaces, social applications, and independent products.
+With 3+ years of professional experience, I’ve worked across sports platforms, EdTech, AI-powered products, marketplaces, social applications, and independent products.
 
-I focus on turning product requirements into reliable applications — from architecture and UI implementation to backend/API integration, payments, testing, and store deployment.
+My focus is turning product requirements into reliable applications — from architecture and UI implementation to API integration, payments, real-time features, testing, and store deployment.
+
+[Portfolio](https://satti201.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/muhammad-mansoor-satti-316769233) ·
+[Email](mailto:mansoorsatti2498@gmail.com)
 
 ---
 
-## What I Work On
+## What I Build
 
-- 📱 Cross-platform Flutter applications
-- 🔥 Firebase-backed applications
-- 🔌 REST API & third-party integrations
-- ⚡ Real-time applications with WebSockets / Socket.IO
-- 💳 Payments, subscriptions & monetization
-- 🤖 Generative AI integrations
-- 🗺️ Maps, GPS & location-based features
-- 🌐 Flutter Web admin panels & dashboards
-- 🚀 Google Play & App Store deployment
+- Cross-platform Flutter applications
+- Firebase-backed mobile and web products
+- REST API and third-party integrations
+- Real-time features with WebSockets / Socket.IO
+- Payments, subscriptions, and monetization
+- AI-powered product features
+- Maps, GPS, GPX, and location workflows
+- Flutter Web dashboards and admin panels
+- Google Play and App Store releases
 
 ---
 
 ## Technical Focus
 
-**Flutter & Dart**
+**Flutter & Dart**  
 Flutter · Flutter Web · Dart
 
-**Architecture & State Management**
-Clean Architecture · DDD · Repository Pattern · GetX · Riverpod · BLoC · Provider · Freezed
+**Architecture & State**  
+Clean Architecture · Repository Pattern · DDD · Riverpod · GetX · BLoC
 
-**Backend & Cloud**
+**Backend & Cloud**  
 Firebase Auth · Firestore · Storage · Cloud Functions · FCM · Crashlytics · Analytics
 
-**APIs & Real-Time**
-REST APIs · Dio · HTTP · WebSockets · Socket.IO · Strava API · Google Maps · GPX
+**APIs & Real-Time**  
+REST APIs · Dio · WebSockets · Socket.IO · Strava API · Google Maps · GPX
 
-**Payments & Monetization**
+**Payments & Monetization**  
 Stripe · Stripe Connect · RevenueCat · Google Play Billing · Apple In-App Purchases · AdMob
 
-**AI**
+**AI**  
 Google Vertex AI · Generative AI APIs
 
 ---
 
 # Featured Work
 
-### RepoScout
+## RepoScout
 
-Public Flutter engineering project demonstrating Clean Architecture, Riverpod, Dio, Hive persistence, offline fallback, testing, and CI.
+Public Flutter engineering project built to demonstrate application architecture, resilient API integration, local persistence, testing, and CI.
 
 **Highlights**
-- Remote-first architecture with Hive offline fallback
-- GitHub REST API with paginated user and repository browsing
+- Clean Architecture with Riverpod dependency injection
+- GitHub REST API integration using Dio
+- Remote-first caching with Hive offline fallback
+- Paginated user and repository browsing
 - Persistent favorites and cached-data UX
 - 23 automated unit and widget tests
 - GitHub Actions CI
@@ -63,7 +69,7 @@ Public Flutter engineering project demonstrating Clean Architecture, Riverpod, D
 
 ---
 
-## 🚴 Ride With Pals
+## Ride With Pals
 
 Two-sided sports platform connecting cycling clubs with individual athletes.
 
@@ -72,10 +78,10 @@ Two-sided sports platform connecting cycling clubs with individual athletes.
 - 320+ commits
 - Led major Flutter development
 - Real-time GPS tracking
-- GPX parsing & ride creation
+- GPX parsing and ride creation
 - Google Maps integration
 - WebSocket / Socket.IO communication
-- Real-time chat & media sharing
+- Real-time chat and media sharing
 - Stripe Connect organizer payouts
 - RevenueCat subscriptions
 - Firebase Cloud Messaging
@@ -85,7 +91,22 @@ Two-sided sports platform connecting cycling clubs with individual athletes.
 
 ---
 
-## 🏠 Roomply
+## OtakuShelf
+
+Independent anime and manga tracking product that I owned end-to-end.
+
+**Owned the full lifecycle**
+
+Idea → Architecture → UI → Development → API Integration → Testing → Monetization → Analytics → Release
+
+**Tech**
+Flutter · Dart · Riverpod · Freezed · Hive · Dio · REST APIs · GoRouter · Firebase Analytics · Crashlytics · RevenueCat · AdMob
+
+[View on Google Play →](https://play.google.com/store/apps/details?id=app.otaku.otakushelf)
+
+---
+
+## Roomply
 
 Flatshare management application built around shared living and collaboration.
 
@@ -97,7 +118,7 @@ Flatshare management application built around shared living and collaboration.
 - House-rule voting
 - Expense splitting
 - Task delegation
-- Group & one-to-one messaging
+- Group and one-to-one messaging
 - File and image handling
 - English / French localization
 
@@ -105,7 +126,7 @@ Flatshare management application built around shared living and collaboration.
 
 ---
 
-## 🔮 Oracle / Astrology App
+## Oracle / Astrology App
 
 AI-powered astrology and tarot application.
 
@@ -124,46 +145,13 @@ AI-powered astrology and tarot application.
 
 ---
 
-## 📚 OtakuShelf
+## Engineering Notes
 
-My independently built anime and manga tracking product.
-
-I owned the complete lifecycle:
-
-**Idea → Architecture → UI → Development → API Integration → Testing → Monetization → Analytics → Release**
-
-Technologies include:
-
-Flutter · Dart · Riverpod · Freezed · Hive · Dio · REST APIs · GoRouter · Firebase Analytics · Crashlytics · RevenueCat · AdMob
-
-[View on Google Play](https://play.google.com/store/apps/details?id=app.otaku.otakushelf)
-
----
-
-# Engineering Interests
-
-I'm particularly interested in:
-
-- Production Flutter architecture
-- Real-time mobile applications
-- Payments and subscription systems
-- Firebase architecture
-- AI-powered product features
-- API integrations
-- Performance and reliability
-- Building products from idea to release
-
----
-
-# Writing & Engineering Notes
-
-I occasionally write about real problems I've encountered while building production Flutter applications.
-
-Topics include:
+I occasionally share lessons from building and debugging production Flutter applications, including:
 
 - RevenueCat subscription synchronization
 - Flutter architecture
-- Firebase
+- Firebase workflows
 - API integration
 - Production debugging
 - App deployment
@@ -171,16 +159,12 @@ Topics include:
 
 ---
 
-# Connect
+## Connect
 
-**LinkedIn:**  
-https://www.linkedin.com/in/muhammad-mansoor-satti-316769233
-
-**GitHub:**  
-https://github.com/Satti201
-
-**Email:**  
-mansoorsatti2498@gmail.com
+[LinkedIn](https://www.linkedin.com/in/muhammad-mansoor-satti-316769233)  
+[Portfolio](https://satti201.github.io)  
+[GitHub](https://github.com/Satti201)  
+[Email](mailto:mansoorsatti2498@gmail.com)
 
 ---
 
