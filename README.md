@@ -69,6 +69,26 @@ Public Flutter engineering project built to demonstrate application architecture
 
 ---
 
+## Flutter RevenueCat Subscription Pattern
+
+Public reference project demonstrating a production-style Flutter subscription architecture with RevenueCat Test Store.
+
+**Highlights**
+- Clean Architecture with strict domain / data / presentation boundaries
+- Riverpod 3.x state management and dependency injection
+- Dynamic monthly and yearly subscription offerings
+- Purchase and restore-purchases flows
+- Live `CustomerInfo` synchronization into app state
+- Typed domain exception handling
+- Duplicate purchase / restore action guards
+- Environment-based SDK configuration with `--dart-define`
+- 51 automated tests across mappers, repositories, notifiers, listeners, and widgets
+- GitHub Actions CI
+
+[View RevenueCat Subscription Pattern →](https://github.com/Satti201/flutter-revenuecat-subscription-pattern)
+
+---
+
 ## Ride With Pals
 
 Two-sided sports platform connecting cycling clubs with individual athletes.
