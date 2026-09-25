@@ -169,7 +169,7 @@ AI-powered astrology and tarot application.
 
 I occasionally share lessons from building and debugging production Flutter applications, including:
 
-- RevenueCat subscription synchronization
+- RevenueCat subscriptions and entitlement synchronization
 - Flutter architecture
 - Firebase workflows
 - API integration
